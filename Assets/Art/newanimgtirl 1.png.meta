@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 9af8bca748c36d848897699a8c0ce92c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3709946727136908939
+    second: newanimgtirl 1_0
+  - first:
+      213: -1907248940094270383
+    second: newanimgtirl 1_1
+  - first:
+      213: -3852352029855957841
+    second: newanimgtirl 1_2
+  - first:
+      213: 6941396668670928553
+    second: newanimgtirl 1_3
+  - first:
+      213: -1692597886165530369
+    second: newanimgtirl 1_4
+  - first:
+      213: -85780855417223384
+    second: newanimgtirl 1_5
+  - first:
+      213: 2969299024210356209
+    second: newanimgtirl 1_6
+  - first:
+      213: -1611514582460823220
+    second: newanimgtirl 1_7
+  - first:
+      213: 6847884200359793331
+    second: newanimgtirl 1_8
+  - first:
+      213: -2886281968424117458
+    second: newanimgtirl 1_9
+  - first:
+      213: -5582152426194348228
+    second: newanimgtirl 1_10
+  - first:
+      213: 7088537102694800435
+    second: newanimgtirl 1_11
+  - first:
+      213: 8063773821371112605
+    second: newanimgtirl 1_12
+  - first:
+      213: -6941569410031411929
+    second: newanimgtirl 1_13
+  - first:
+      213: 3058411272370421590
+    second: newanimgtirl 1_14
+  - first:
+      213: -4354485290628546890
+    second: newanimgtirl 1_15
+  - first:
+      213: 4472589700603850654
+    second: newanimgtirl 1_16
+  - first:
+      213: 4808627394897022475
+    second: newanimgtirl 1_17
+  - first:
+      213: -981840023706041006
+    second: newanimgtirl 1_18
+  - first:
+      213: -9107472117669345044
+    second: newanimgtirl 1_19
+  - first:
+      213: -6530263455854638882
+    second: newanimgtirl 1_20
+  - first:
+      213: 7556863404191757694
+    second: newanimgtirl 1_21
+  - first:
+      213: -2855433512811912089
+    second: newanimgtirl 1_22
+  - first:
+      213: -9010823987887510074
+    second: newanimgtirl 1_23
+  - first:
+      213: 2406781725187550208
+    second: newanimgtirl 1_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: newanimgtirl 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b865e9664e06c7330800000000000000
+      internalID: 3709946727136908939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154d07ba1371885e0800000000000000
+      internalID: -1907248940094270383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac3eae4d32b98ac0800000000000000
+      internalID: -3852352029855957841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6e5393e7bc45060800000000000000
+      internalID: 6941396668670928553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8c687b03fa288e0800000000000000
+      internalID: -1692597886165530369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827c35834ce3fcef0800000000000000
+      internalID: -85780855417223384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7e8f10bb1153920800000000000000
+      internalID: 2969299024210356209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498f028600c2a9e0800000000000000
+      internalID: -1611514582460823220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b294790662980f50800000000000000
+      internalID: 6847884200359793331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 378
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b177687ddd1f7d0800000000000000
+      internalID: -2886281968424117458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 378
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d992a1f53882b0800000000000000
+      internalID: -5582152426194348228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 378
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cdc4f20fa8f5260800000000000000
+      internalID: 7088537102694800435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c5beb119748ef60800000000000000
+      internalID: 8063773821371112605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d1c5b46679aaf90800000000000000
+      internalID: -6941569410031411929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 282
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f70ba19d8a17a20800000000000000
+      internalID: 3058411272370421590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 282
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6befb6003b2c193c0800000000000000
+      internalID: -4354485290628546890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 282
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f209ac2a4d11e30800000000000000
+      internalID: 4472589700603850654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 282
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e8c02732dabb240800000000000000
+      internalID: 4808627394897022475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 282
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2558db053bdcf52f0800000000000000
+      internalID: -981840023706041006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce84b88cc52cb9180800000000000000
+      internalID: -9107472117669345044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 188
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c1185cf7df55a0800000000000000
+      internalID: -6530263455854638882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75bff66a3f5fd860800000000000000
+      internalID: 7556863404191757694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764a91d49567f58d0800000000000000
+      internalID: -2855433512811912089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newanimgtirl 1_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 424
+        width: 20
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd656c035f13f280800000000000000
+      internalID: -9010823987887510074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
